@@ -1,0 +1,19 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+dist-ssr/
+
+# 测试与覆盖率产物
+coverage/
+
+# 本地环境覆盖（WEB_PORT 等）
+.env
+.env.*
+
+# 编辑器与系统文件
+.DS_Store
+.vscode/
+.idea/
+*.log
